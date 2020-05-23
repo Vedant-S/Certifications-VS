@@ -1,3 +1,7 @@
-### Certifications-VS
+# _Certifications-VS:_
+_________________________________________________________________________________________________________________________________
 
-A Comprehensive List of Certifications Earned.
+```diff
++ A Comprehensive List of Certifications Earned.
+```
+----------------------------------
