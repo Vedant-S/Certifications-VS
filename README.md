@@ -2,6 +2,6 @@
 _________________________________________________________________________________________________________________________________
 
 ```diff
-= A Comprehensive List of Certifications Earned.
+- A Comprehensive List of Certifications Earned.
 ```
 ----------------------------------
